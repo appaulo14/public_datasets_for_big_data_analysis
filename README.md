@@ -16,3 +16,4 @@ Public Datasets for Big Data Analysis
 - [Healthdata.gov](https://www.healthdata.gov/)
 - [NHS Health and Social Care Information Centre](http://www.hscic.gov.uk/home)
 - [World Health Organization](http://www.who.int/en/)
+- [City of Toronto Open Data](https://portal0.cf.opendata.inter.sandbox-toronto.ca/)
